@@ -1,0 +1,56 @@
+body{
+   background-color: teal;
+    padding: 0;
+    margin: 0;
+    font-family: sans-serif;
+    font-weight: bold;
+    align-items: center;
+    text-align: center;
+     padding: 100px 300px; 
+ }
+ #mail{
+    background-color: white;
+    border-radius: 20px;
+    height: auto;
+    width: 400px;
+    padding: 50px;
+    margin: auto;
+    margin-top: 150px;
+ } 
+
+ input{
+    font-size: 15px;
+     font-family: sans-serif;
+    font-weight:4px;
+     height:30px ;
+     width: 250px;
+     margin-bottom: 20px;
+     padding: 5px 20px;
+     border-style: hidden;
+     border-collapse: separate;
+     border-spacing: 10px;
+     background-color: rgba(218, 218, 218, 0.836);
+     box-shadow: rgba(0, 0, 0, 0.363) 1px 1px 3px;
+    caret-color: teal;
+    letter-spacing: 1px;
+      border-radius: 50px; 
+ }
+ #cta{
+     
+      padding: 10px 20px;
+     background-color: blue;
+     border-radius: 20px; 
+ }
+ a{
+     color: white;
+     text-decoration: none; 
+ }
+
+
+ .fcf-body {
+    font-family: -apple-system, Arial, sans-serif;
+    font-size: 1rem;
+    font-weight: 400;
+    color: #0000ff;
+    text-align: left;
+}
